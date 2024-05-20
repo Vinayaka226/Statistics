@@ -4,7 +4,6 @@ Bob has an important meeting tomorrow and he has to reach office on time in morn
 . The probability that he might have car trouble is
 . If the car runs into trouble he will have to take a train and only 2 trains out of the available N trains will get him to office
 on time.
-
 What are the chances that he will reach office on time tomorrow?
 """
 print("Enter Pct value:")
